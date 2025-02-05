@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello Pasa. K xa??" << std::endl;
-    return 0;
+    auto result = (10 <=> 20) > 0;
+    std::cout << result << std::endl;
 }
