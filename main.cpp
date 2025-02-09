@@ -5,6 +5,6 @@ int main() {
     std::cout << result << std::endl;
     std::cout << "result" << std::endl;
     std::cout << "IS" << std::endl;
-    std::cout << "C++" << std::endl;
+    std::cout << "C++ and" << std::endl;
     
 }
